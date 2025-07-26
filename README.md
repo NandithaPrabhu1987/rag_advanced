@@ -224,4 +224,4 @@ This implementation can be extended in several ways:
 
 ## License
 
-This project is available under the MIT license.
+This project is available under --- license
